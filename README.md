@@ -1,2 +1,2 @@
-# Desenvolvimento-de-aplicações-UniCesumar
+# DesenvApp-UniCesumar
 códigos PHP feitos em sala 
