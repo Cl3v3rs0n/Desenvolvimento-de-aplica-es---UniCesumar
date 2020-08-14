@@ -3,7 +3,7 @@ $nome = 'nome';
 $usuario = 'usuario';
 $senha = 'senha';
 
-$nome = readline("Digite o usuário: \n");
+$nome = readline("Informe o usuário: \n");
     if(($nome == $nome) && ($usuario ==$usuario) && ($senha == $senha)){
         echo "Olá " .$nome;
     }
