@@ -1,2 +1,3 @@
-# DesenvApp-UniCesumar
-códigos PHP feitos em sala 
+<?php
+echo "DesenvApp-UniCesumar"
+echo "códigos PHP feitos em sala" 
