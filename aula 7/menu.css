@@ -1,0 +1,26 @@
+
+body{
+    margin: 0;
+}
+
+.navbar {
+    overflow: hidden;
+    position: fixed;
+    top: 0;
+    width: 100;
+}
+
+.navbar a {
+    float: left;
+    display: block;
+    color: #f44336;
+    padding: 16px 18px;
+    text-decoration: nome;
+    font-size: 20px;
+    background-color: darkolivegreen;
+}
+
+.navbar a:hover {
+    background-color: #ff7961;
+    color: darkgoldenrod;
+}
